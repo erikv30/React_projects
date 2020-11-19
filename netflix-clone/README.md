@@ -13,4 +13,4 @@ Go to the https://netflix-clone-erikv30.web.app
 for the live version
 
 Note: If you are going to download the code and test it, you must provide a TMDb API_KEY and
-put it in request.js in src folder between the ' '
+put it in the file request.js in the src folder between the " " of API_KEY
