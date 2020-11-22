@@ -1,3 +1,5 @@
+the app only shows Costarica's top 50 and the name of the users public playlists
+
 this is a clone of Spotify using
 
 1-React:
@@ -15,4 +17,4 @@ context-api
 
 Go to the https://spotify-clone-erikv30.web.app for the live version
 
-Note: the app only shows Costarica's top 50 and the name of the users public playlists
+Note: If you are going to download the code and test it, you must provide a CLIENT ID from https://developer.spotify.com/ and put it in the spotify.js file in the src folder between the clientid " "
