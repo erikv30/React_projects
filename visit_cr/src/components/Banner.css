@@ -1,0 +1,42 @@
+.bann-container {
+  background: url("../images/pexels-jose-acevedo-home.jpg") center center/cover
+    no-repeat;
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  box-shadow: inset 0 0 0 1000px rgba(0, 0, 0, 0.2);
+  object-fit: contain;
+}
+
+.bann-container > h1 {
+  color: white;
+  font-size: 100px;
+  margin-top: -100px;
+}
+
+.bann-container > p {
+  color: white;
+  font-size: 32px;
+  margin-top: 8px;
+}
+
+@media screen and (max-width: 960px) {
+  .bann-container > h1 {
+    font-size: 70px;
+    margin-top: -150px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .bann-container > h1 {
+    font-size: 50px;
+    margin-top: -100px;
+  }
+
+  .bann-container > p {
+    font-size: 30px;
+  }
+}
