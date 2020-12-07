@@ -15,4 +15,4 @@ context-api
 
 5-Firebase for hosting
 
-Note: If you are going to download the code and test it, you must provide a CLIENT ID from https://developer.spotify.com/ and put it in the spotify.js file in the src folder between the clientid " "
+Note: If you are going to download the code and test it, you must provide a CLIENT ID from https://developer.spotify.com/ and put it in the spotify.js file in the src folder between the " " of clientid
